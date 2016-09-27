@@ -1,0 +1,8 @@
+# ignore jupyter notebook checkpoints
+*/notebooks/.ipynb_checkpoints
+
+# ignore cache files
+*/notebooks/__pycache__
+
+# ignore .swp files (from vim)
+*.swp
